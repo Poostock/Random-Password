@@ -25,4 +25,4 @@ de = random.choice(lT)
 values = str(random.randint(0, 9))
 valuel = str(random.randint(0, 9))
 
-print(ae + be + values + valuel + ce + de)
+print(ae + be + values + valuel + ce + de) 
